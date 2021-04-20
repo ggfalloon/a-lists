@@ -1,4 +1,4 @@
-# A LISTS [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# A-LISTS [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
   * [Description](#Description)
@@ -6,7 +6,7 @@
   * [Language/Technoligies Used](#Language/Technologies-Used)
   * [Mock-Up](#Mock-Up)    
   * [Contributors](#Contributors)
-  * [Live Link] (#Live-Link)
+  * [Live Link](#Live-Link)
   * [Repository](#Repository-Link)
   * [Questions](#Questions)
 
