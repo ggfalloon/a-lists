@@ -3,10 +3,10 @@
 ## Table of Contents
   * [Description](#Description)
   * [User Story](#User-Story)
-  * [Elevator Pitch](#Elevator-Pitch)
   * [Language/Technoligies Used](#Language/Technologies-Used)
   * [Mock-Up](#Mock-Up)    
   * [Contributors](#Contributors)
+  * [Live Link] (#Live-Link)
   * [Repository](#Repository-Link)
   * [Questions](#Questions)
 
@@ -67,7 +67,7 @@ https://github.com/ggfalloon/a-lists
 
 
 ## Questions
-For any questions or inquiries please reach out to any of the contributing members listed above.
+© Gabriele Falloon, https://github.com/ggfalloon, ggfalloon@gmail.com
 
 
 2021 © A LISTS
