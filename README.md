@@ -24,11 +24,6 @@ I WANT to be able  to keep tack of where a show or movie is streaming
 
 SO I dont have to try and remember or waste time searching for it  
 ```
-## Elevator Pitch
-```
-
-```
-
 
 ## Language/Technologies Used
 * HTML5
@@ -64,10 +59,11 @@ SO I dont have to try and remember or waste time searching for it
 * [Janneth Alvarado Verduzco](https://github.com/jannverduzco) - janneth_verduzco@live.com
 
 ## Live Link (Heroku)
-
+https://serene-fjord-76369.herokuapp.com/
 
 ## Repository Link
 https://github.com/HarrisonNoblett/a-lists
+https://github.com/ggfalloon/a-lists
 
 
 ## Questions
