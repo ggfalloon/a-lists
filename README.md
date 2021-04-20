@@ -28,7 +28,7 @@ SO I dont have to try and remember or waste time searching for it
 ## Language/Technologies Used
 * HTML5
 * CSS
-* JavaScript
+* JSX
 * NPM package(Package.json)
    * react
    * react-dom
