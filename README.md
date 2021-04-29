@@ -13,7 +13,7 @@
 
 ## Description 
 
-A Lists is an application that allows the user to search up a movie or a show and provides the service streaming it right away. With so many streaming service accounts it is easy to lose track of where a specific movie or show is streaming. It never fails when someone asks "Where were we watching that show?". With this mobile friendly application you can have the answer at your fingertips. The user can save as many movies as they wish and simply pop the app open and have the streaming service available.
+A-LISTS is an application that allows the user to search up a movie or a show and provides the service streaming it right away. With so many streaming service accounts it is easy to lose track of where a specific movie or show is streaming. It never fails when someone asks "Where were we watching that show?". With this mobile friendly application you can have the answer at your fingertips. The user can save as many movies as they wish and simply pop the app open and have the streaming service available.
  
 
 ## User Story
@@ -34,6 +34,7 @@ SO I dont have to try and remember or waste time searching for it
    * react-dom
    * react-router-dom
    * react-scripts
+   * react-toastify
    * axios
    * dotenv
    * express
@@ -59,10 +60,10 @@ SO I dont have to try and remember or waste time searching for it
 * [Janneth Alvarado Verduzco](https://github.com/jannverduzco) - janneth_verduzco@live.com
 
 ## Live Link (Heroku)
-https://serene-fjord-76369.herokuapp.com/
+https://a-lists.herokuapp.com/ 
 
-## Repository Link
-https://github.com/HarrisonNoblett/a-lists
+## Repository Links
+https://github.com/jannverduzco/a-lists
 https://github.com/ggfalloon/a-lists
 
 
